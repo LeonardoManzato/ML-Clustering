@@ -7,5 +7,5 @@ para subdividir os 156 países contidos no dataset em grupos de países que mais
   - Também desenvolvi a clusterização considerando 3 clusters conforme o gif abaixo:
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="src/assets/ML-Clustering/Clusters.gif">
 </div>
