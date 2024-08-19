@@ -6,6 +6,4 @@ para subdividir os 156 países contidos no dataset em grupos de países que mais
   - Os comentários no script ajudam a identificar o passo a passo da técnica de Machine Learning para análise de clusters
   - Também desenvolvi a clusterização considerando 3 clusters conforme o gif abaixo:
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="src/assets/ML-Clustering/Clusters.gif">
-</div>
+![Clusters](https://github.com/user-attachments/assets/07b02fd4-41ec-41ce-85f1-3be903222c78)
